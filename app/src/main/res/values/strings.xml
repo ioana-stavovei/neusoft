@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VahaApp</string>
+    <string name="hello">Hello Vaha</string>
+    <string name="admin_description">Hello Vaha</string>
+</resources>
